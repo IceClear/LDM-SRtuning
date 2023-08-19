@@ -11,7 +11,7 @@ conda activate ldm
 ```
 
 ## Pretrained Models
-You can download our finetuned model [here](https://huggingface.co/Iceclear/StableSR/resolve/main/ldmsr4x_finetune_119.ckpt).
+You can download our finetuned model [[HuggingFace](https://huggingface.co/Iceclear/StableSR/resolve/main/ldmsr4x_finetune_119.ckpt) | [OpenXLab](https://download.openxlab.org.cn/models/Iceclear/StableSR/weight//ldmsr4x_finetune_119.ckpt)].
 
 ## Train
 
